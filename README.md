@@ -4,9 +4,6 @@ This project was done in the Fall 2023 semester as the final for my CS410 capsto
 
 A weather app which displays the temperatures recorded over the last eight hours. An ESP32 with a temperature sensor uses the AtSign protocol to transmit weather data to a Java application.
 
-# weather-station example
-- You can find a video demonstration of this project [here](https://youtu.be/z5ceh4ug2UM).
-
 # Code Documentation
 - Documentation for all of the classes and functions used in this project can be found [here](./code_documentation.md).
 
