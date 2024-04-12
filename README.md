@@ -1,5 +1,7 @@
 # weather-station
 
+This project was done in the Fall 2023 semester as the final for my CS410 capstone course at UMass Boston. I worked on this project on a team of three and my contributions included the code running the ESP32, and reworking much of the front end java program to be compatible.
+
 A weather app which displays the temperatures recorded over the last eight hours. An ESP32 with a temperature sensor uses the AtSign protocol to transmit weather data to a Java application.
 
 # weather-station example
@@ -16,7 +18,7 @@ A weather app which displays the temperatures recorded over the last eight hours
 ## 2. Download Code
 - Open a command prompt or terminal program and clone the git repository with the command:
 
-```git clone https://github.com/Colin-Wa/weather-station.git```
+```git clone https://github.com/Colin-Wa/weather-station-project.git```
 - Open the folder that contains the repository in Visual Studio
 ## 3. Set up ESP32
 - Wire the Keyestudio LM35 to the ESP32 on GPIO32. The final product should look like this:
